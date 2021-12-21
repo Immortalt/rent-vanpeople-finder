@@ -1,7 +1,7 @@
 # rent-vanpeople-finder
 
 A simple script to find suitable rental information on vanpeople.  
-The reason for developing this project is that vanpeople does not support advanced filtering of rental information when searching with keywords.
+The reason for developing this project is that vanpeople does not support advanced filtering of rental information when searching with keywords.  
 You can set your desired keywords and price range to easily find suitable rental information.
 
 ## Terms of use
@@ -27,6 +27,16 @@ npm install
 node main.mjs
 ```
 
-## Screenshot
+## Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/17811951/146889134-e69df4fd-c1e6-4e85-92cb-8b761627331a.png)
+## Problem
+
+Sorting and filtering are not supported when entering a keyword search.
+
+![Problem](https://user-images.githubusercontent.com/17811951/146890644-274bede2-02c2-4635-96ea-1056a7ec162e.png)
+
+## Solution
+
+Use this script to do any sorting and filtering you want.
+
+![Solution](https://user-images.githubusercontent.com/17811951/146889134-e69df4fd-c1e6-4e85-92cb-8b761627331a.png)
