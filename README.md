@@ -1,7 +1,7 @@
 # rent-vanpeople-finder
 
 A simple script to find suitable rental information on vanpeople.  
-The reason for developing this project is that vanpeople itself does not support advanced filtering of rental information.  
+The reason for developing this project is that vanpeople does not support advanced filtering of rental information when searching with keywords.
 You can set your desired keywords and price range to easily find suitable rental information.
 
 ## Terms of use

@@ -3,7 +3,7 @@ import { writeFileSync } from "fs";
 import qs from "qs";
 
 // 【可修改】搜索关键词
-const keywords = "公寓";
+const keywords = "metrotown";
 // 【可修改】需要自动化检索几页，默认10页
 const pageCount = 10;
 // 【可修改】最低多少钱一个月
