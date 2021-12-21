@@ -29,13 +29,13 @@ node main.mjs
 
 ## Screenshots
 
-## Problem
+### Problem
 
 Sorting and filtering are not supported when entering a keyword search.
 
 ![Problem](https://user-images.githubusercontent.com/17811951/146890644-274bede2-02c2-4635-96ea-1056a7ec162e.png)
 
-## Solution
+### Solution
 
 Use this script to do any sorting and filtering you want.
 
