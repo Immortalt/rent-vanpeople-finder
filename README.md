@@ -26,3 +26,7 @@ npm install
 ```bash
 node main.mjs
 ```
+
+## Screenshot
+
+![Screenshot](https://user-images.githubusercontent.com/17811951/146889134-e69df4fd-c1e6-4e85-92cb-8b761627331a.png)
