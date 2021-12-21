@@ -1,0 +1,22 @@
+{
+  "name": "rent-vanpeople-finder",
+  "version": "1.0.0",
+  "description": "A simple script to find suitable rental information on vanpeople.",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "immortalt",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "qs": "^6.10.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0"
+  }
+}
